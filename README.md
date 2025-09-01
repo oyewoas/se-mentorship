@@ -29,9 +29,9 @@ se-mentorship/
 ├── week-3/
 │ ├── TASK.md # Week 3 tasks & submission guidelines
 │ └── submissions/
-│ └── your-name/
-│   └── task-1/
-│   └── task-2/
+    │ └── your-name/
+    │   └── task-1/
+    │   └── task-2/
 │
 ├── week-4/
 │ ├── TASK.md # Week 4 tasks & submission guidelines
